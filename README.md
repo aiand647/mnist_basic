@@ -8,7 +8,7 @@ Feel free to twick the code and run to understand how it works
 - TensorFlow 2.0+
 - Numpy
 - Matplotlib
-- 
+
 
 # How to train
 - Add path for saved weights
